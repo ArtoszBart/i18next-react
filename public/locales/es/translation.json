@@ -1,0 +1,34 @@
+{
+	"language_name": "Español",
+	
+	"interpolation_title": "Interpolación",
+	"interpolation": "¡Hola {{name}}!",
+
+	"plurals_title": "Plurales",
+  "plurals_one": "Tienes {{count}} artículo.",
+  "plurals_other": "Tienes {{count}} artículos.",
+  "place_ordinal_other": "{{count}}º lugar",
+	"plurals_interval": "(1)[un articulo];(2-7)[algunos artículos];(7-inf)[un montón de artículos];",
+
+	"styling_title": "Estilo",
+	"styling": "Tengo un <1>{{style}}</1>!",
+
+	"sex_title": "Sexo",
+	"sex": "una persona",
+  "sex_male": "hombre",
+  "sex_female": "mujer",
+	"friends_female_one": "una novia",
+	"friends_female_other": "{{count}} novias",
+
+	"numbers_title": "Números",
+	"number_format": "{{val, number}}",
+
+	"dates_title": "Fechas",
+	"intlDateTime": "El {{val, datetime}}",
+	"intlRelativeTime": "{{val, relativetime}}",
+  "intlRelativeTimeWithOptions": "{{val, relativetime(quarter)}}",
+	"intlRelativeTimeWithOptionsExplicit": "{{val, relativetime(range: day; numeric: auto;)}}",
+	
+	"formatting_title": "Formato",
+	"intlList": "Usado {{val, list}}"
+}

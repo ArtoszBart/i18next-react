@@ -1,0 +1,35 @@
+{
+	"language_name": "Français",
+	
+	"interpolation_title": "Interpolation",
+	"interpolation": "Bonjour, {{name}}!",
+
+	"plurals_title": "Pluriels",
+	"plurals_one": "Vous avez {{count}} article.",
+  "plurals_other": "Vous avez {{count}} articles.",
+	"place_ordinal_one": "{{count}}ère place",
+  "place_ordinal_other": "{{count}}ème place",
+	"plurals_interval": "(1)[un article];(2-7)[quelques articles];(7-inf)[beaucoup d'articles];",
+
+	"styling_title": "Style",
+	"styling": "J'ai un <1>{{style}}</1>!",
+
+	"sex_title": "Sexe",
+	"sex": "une personne",
+  "sex_male": "homme",
+  "sex_female": "femme",
+	"friends_female_one": "une petite amie",
+	"friends_female_other": "{{count}} copines",
+
+	"numbers_title": "Nombres",
+	"number_format": "{{val, number}}",
+
+	"dates_title": "Dates",
+	"intlDateTime": "Le {{val, datetime}}",
+	"intlRelativeTime": "{{val, relativetime}}",
+  "intlRelativeTimeWithOptions": "{{val, relativetime(quarter)}}",
+	"intlRelativeTimeWithOptionsExplicit": "{{val, relativetime(range: day; numeric: auto;)}}",
+	
+	"formatting_title": "Formatage",
+	"intlList": "Utilisé {{val, list}}"
+}

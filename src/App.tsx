@@ -1,5 +1,13 @@
+import Content from './components/Content';
+import LanguageSelector from './components/LanguageSelector';
+
 function App() {
-	return <></>;
+	return (
+		<>
+			<LanguageSelector />
+			<Content />
+		</>
+	);
 }
 
 export default App;

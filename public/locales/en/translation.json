@@ -1,0 +1,37 @@
+{
+	"language_name": "English",
+
+	"interpolation_title": "Interpolation",
+	"interpolation": "Hello, {{name}}!",
+
+	"plurals_title": "Plurals",
+  "plurals_one": "You have {{count}} item.",
+  "plurals_other": "You have {{count}} items.",
+	"place_ordinal_one": "{{count}}st place",
+  "place_ordinal_two": "{{count}}nd place",
+  "place_ordinal_few": "{{count}}rd place",
+  "place_ordinal_other": "{{count}}th place",
+	"plurals_interval": "(1)[one item];(2-7)[a few items];(7-inf)[a lot of items];",
+	
+	"styling_title": "Styling",
+	"styling": "I have a <1>{{style}}</1>!",
+
+	"sex_title": "Sex",
+	"sex": "a person",
+  "sex_male": "male",
+  "sex_female": "female",
+	"friends_female_one": "a girlfriend",
+	"friends_female_other": "{{count}} girlfriends",
+
+	"numbers_title": "Numbers",
+	"number_format": "{{val, number}}",
+
+	"dates_title": "Dates",
+	"intlDateTime": "On the {{val, datetime}}",
+	"intlRelativeTime": "{{val, relativetime}}",
+  "intlRelativeTimeWithOptions": "{{val, relativetime(quarter)}}",
+	"intlRelativeTimeWithOptionsExplicit": "{{val, relativetime(range: day; numeric: auto;)}}",
+	
+	"formatting_title": "Formatting",
+	"intlList": "Used {{val, list}}"
+}

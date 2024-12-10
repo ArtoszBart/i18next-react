@@ -1,0 +1,36 @@
+{
+	"language_name": "Polski",
+	
+	"interpolation_title": "Interpolacja",
+	"interpolation": "Cześć {{name}}!",
+
+	"plurals_title": "Liczba mnoga",
+	"plurals_one": "Masz {{count}} przedmiot.",
+	"plurals_few": "Masz {{count}} przedmioty.",
+  "plurals_many": "Masz {{count}} przedmiotów.",
+	"place_ordinal_other": "{{count}}. miejsce",
+	"plurals_interval": "(1)[jeden przedmiot];(2-7)[kilka przedmiotów];(7-inf)[dużo przedmiotów];",
+
+	"styling_title": "Stylizacja",
+	"styling": "Mam <1>{{style}}</1>!",
+
+	"sex_title": "Płeć",
+	"sex": "osoba",
+  "sex_male": "mężczyzna",
+  "sex_female": "kobieta",
+	"friends_female_one": "dziewczyna",
+	"friends_female_few": "{{count}} dziewczyny",
+	"friends_female_many": "{{count}} dziewczyn",
+
+	"numbers_title": "Liczby",
+	"number_format": "{{val, number}}",
+
+	"dates_title": "Daty",
+	"intlDateTime": "W dniu {{val, datetime}}",
+	"intlRelativeTime": "{{val, relativetime}}",
+  "intlRelativeTimeWithOptions": "{{val, relativetime(quarter)}}",
+	"intlRelativeTimeWithOptionsExplicit": "{{val, relativetime(range: day; numeric: auto;)}}",
+	
+	"formatting_title": "Formatowanie",
+	"intlList": "Użyto {{val, list}}"
+}
